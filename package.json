@@ -1,10 +1,10 @@
-{ "name" : "sax"
-, "description": "An evented streaming XML parser in JavaScript"
-, "author" : "Isaac Z. Schlueter <i@izs.me> (http://blog.izs.me/)"
-, "version" : "0.3.5"
+{ "name" : "sax-pausable"
+, "description": "An evented streaming XML parser in JavaScript. Pausable"
+, "author" : "Pedro Teixeira"
+, "version" : "0.1.0"
 , "main" : "lib/sax.js"
 , "license" : { "type": "MIT"
               , "url": "https://raw.github.com/isaacs/sax-js/master/LICENSE" }
 , "scripts" : { "test" : "node test/index.js" }
-, "repository": "git://github.com/isaacs/sax-js.git"
+, "repository": "git://github.com/pgte/sax-pausable.git"
 }
